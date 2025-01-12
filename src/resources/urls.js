@@ -4,17 +4,17 @@ export default {
     /**
      * PenguinMod's normal page
      */
-    base: "https://editor.snail-ide.com",
+    base: "https://editor.blockopolis.com",
 
     /**
      * PenguinMod's editor page
      */
-    editor: "https://editor.snail-ide.com/editor.html",
+    editor: "https://editor.blockopolis.com/editor.html",
 
     /**
      * PenguinMod's credits page
      */
-    credits: "https://editor.snail-ide.com/credits.html",
+    credits: "https://editor.blockopolis.com/credits.html",
 
     /**
      * PenguinMod's terms of service page
@@ -24,7 +24,7 @@ export default {
     /**
      * PenguinMod's privacy policy page
      */
-    privacy: "https://editor.snail-ide.com/privacy.html",
+    privacy: "https://editor.blockopolis.com/privacy.html",
 
     /**
      * PenguinMod's guideline pages for services
@@ -33,7 +33,7 @@ export default {
         /**
          * PenguinMod's project uploading guidelines
          */
-        projects: "https://editor.snail-ide.com/PenguinMod-Guidelines/PROJECTS"
+        projects: "https://editor.blockopolis.com/Blockopolis-Guidelines/PROJECTS"
     },
 
     /**
@@ -57,17 +57,17 @@ export default {
     /**
      * PenguinMod's home page
      */
-    home: "https://snail-ide.com",
+    home: "https://blockopolis.com",
 
     /**
      * PenguinMod's packager page
      */
-    packager: "/PenguinMod-Packager/",
+    packager: "/Blockopolis-Packager/",
 
     /**
      * PenguinMod's unofficial wiki
      */
-    wiki: "https://penguinmod.fandom.com/wiki/Penguinmod",
+    wiki: "https://blockopolis.fandom.com/wiki/Blockopolis",
 
     /**
      * Snail IDE's Guild. Only visible in Livetests until snail man approves of it.
@@ -92,7 +92,7 @@ export default {
     /**
      * PenguinMod's github page
      */
-    github: "https://github.com/snail-ide/",
+    github: "https://github.com/BlockopolisCoding/",
 
     /**
      * PenguinMod's basic API
@@ -116,7 +116,7 @@ export default {
 /**
      * our status page lol
      */
-    status: "https://snail-ide.betteruptime.com/",
+    status: "https://blockopolis.betteruptime.com/",
 /**
      * direct page to upload
      */
@@ -124,10 +124,10 @@ export default {
     /**
      * docs url
      */
-    docs: "https://docs.snail-ide.com/",
+    docs: "https://docs.blockopolis.com/",
     /**
      * feedback url
      * you can change this to something else if you want
      */
-    feedback: "https://forum.snail-ide.com/"
+    feedback: "https://forum.blockopolis.com/"
 }

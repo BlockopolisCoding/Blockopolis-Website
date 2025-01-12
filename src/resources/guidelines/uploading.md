@@ -1,29 +1,17 @@
-> Remember Snail IDE allows anybody to use the website for free, act accordingly. We accept everyone on this website. 
+> Remember Blockopolis allows anybody to use the website for free, act accordingly. We accept everyone on this website. 
 
 # Project Uploading & Updating guidelines
-These guidelines **only apply to Snail IDE's project sharing**.
+These guidelines **only apply to Blockopolis project sharing**.
 If you are packaging your project for release on other websites, you should follow their rules instead.
 
-Also, let us know of any necessary changes we should make by talking to us at my [Scratch Page](https://scratch.mit.edu/users/Mr_rudy/) or making an issue on our [GitHub](https://github.com/Snail-IDE/Snail-IDE-Website/issues).
+Also, let us know of any necessary changes we should make by talking to us at my [Scratch Page](https://scratch.mit.edu/users/Bkerboy303/) or making an issue on our [GitHub](https://github.com/BlockopolisCoding/Blockopolis-Website/issues).
 
 ## TL;DR
 <!-- Inspired by TurboWarp on a certain social media with an alien as its mascot -->
 We encourage you to read the whole guidelines, but, if you really don't want to read it:
 ```warning
-Don't swear, troll, nor threaten each other, because Snail IDE is available for children under 13. Please be a decent human being. If you can't at least do these, please don't share your projects on Snail IDE. If you troll each other or violate any of these rules, action WILL be taken.
+Don't swear, troll, nor threaten each other, because Blockopolis is available for children under 13. Please be a decent human being. If you can't at least do these, please don't share your projects on Blockopolis. If you troll each other or violate any of these rules, action WILL be taken.
 ```
-
-## Base requirements for a project
-```warning
-As of March 19th, 2024, Snail IDE has decided to ban uploaded projects based around a single image.
-```
-Uploading empty or default projects will get your project removed.
-Please do not do this multiple times as your account will be limited if we see you doing this.
-Projects that are based around using an iframe to display other websites or projects will be removed.   
-This is a rule because the only purpose of this is to show content that is not yours or can be viewed anyways in your browser.
-*(This may not apply to projects uploaded before October 6th, 2023 due to communication issues.)*   
-Projects that only have an image will be removed.   
-
 
 ## Spam
 Do not just upload the same project multiple times.
@@ -35,50 +23,29 @@ If you keep uploading the same project multiple times, you may not be able to po
 (depending on if you already got punished for it).
 
 ## Projects uploaded that were shared on Scratch (Scratch Reuploads)
-If you are just taking a Scratch project that was shared on Scratch and uploading it onto Snail IDE, please note the following:
+If you are just taking a Scratch project that was shared on Scratch and uploading it onto Blockopolis, please note the following:
 
-- The Snail IDE version must have a change in the code (ex: changing a costume would not be enough)
+- The Blockopolis version must have a change in the code (ex: changing a costume would not be enough)
 - The code change should be meaningful (ex: a bug fix not in the Scratch version wouldn't count as a meaningful change)
 
 This means like something extra should have been added, or something important in the project was changed like a gameplay difference or added difficulty.
 
 If you are not following any of the above changes:
-- The Snail IDE project has to be a devlog or small message about the project you are planning to upload with Snail IDE-specific changes
-- The Snail IDE project can have changes planned later (in this case, the above rules would be considered after you have updated the project)
+- The Blockopolis project has to be a devlog or small message about the project you are planning to upload with Blockopolis-specific changes
+- The Blockopolis project can have changes planned later (in this case, the above rules would be considered after you have updated the project)
 
 ## Showing Face or "Face Reveals"
 We do not allow any personal information shown on our site. Please do not use your face at all. It is fine to use for example a famous celebirty's face. (If there is no copyright against it) if you show your face on a thumbnail we will just remove your thumbnail from the server. If it is inside your project we will remove the entire project. This does not include linking to your YouTube or other social media that uses your face we will not do anything there.
 
 
-## Snail IDE Forks / Mods
-If your project only works outside of Snail IDE, don't upload it to our site.
-All Snail IDE projects should actually work on Snail IDE, we don't want to approve something that crashes the site instantly.
+## Blockopolis Forks / Mods
+If your project only works outside of Blockopolis, don't upload it to our site.
+All Blockopolis projects should actually work on Blockopolis, we don't want to approve something that crashes the site instantly.
 
-*(Note for developers: If we get a lot of projects uploaded from your mod that don't work on Snail IDE, we'll likely end up blocking your site from the API. See [here for details](https://github.com/PenguinMod/penguinmod.github.io/blob/develop/FORKING.md).)*
+*(Note for developers: If we get a lot of projects uploaded from your mod that don't work on Blockopolis, we'll likely end up blocking your site from the API. See [here for details](https://github.com/BlockopolisCoding/blockopolis.github.io/blob/develop/FORKING.md).)*
 
 ## "Chatroom" Projects or Projects based around online chatting
-```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users. We use this rule aswell.
-```
-
-Please do not upload these types of projects anymore.
-Old projects may also be reported and taken down, but you will not receive punishment for them.
-
-These types of projects are no longer allowed due to the Snail IDE team not being able to control these spaces properly,
-and we do not believe we will be able to keep these types of projects safe for everyone in the future.
-
-## Projects with an online chat feature
-```warning
-As of November 14th, 2023, PenguinMod has decided to ban uploaded projects based around chatting with other users. We use this rule aswell.
-```
-This section is talking about projects that have online chat, but aren't focused around it.
-
-As of now, you are not currently allowed to have online chatting within your project unless:
-- Users can only use hand-picked phrases or sentences to chat
-
-We are planning on developing online chat systems to allow creators to have a moderated but easily usable chatting feature.
-
-There is no estimated time when this guideline will be lifted.
+All online chat projects are not allowed until a chat API is implemented into Blockopolis.
 
 ## Be respectful to others.
 Your project cannot contain any derogatory terms (slurs).
@@ -114,7 +81,7 @@ Downloading malicious material may be an executable application or DLL that cont
 Your account will be instantly banned and you may be reported to the Scratch Team or security services if your project does this.
 
 ## Profanity / Curse words
-We have decided to completely ban profanity, using profanity around the site at all will cause your project to be deleted, but if it gets too bad you will be banned from Snail IDE.
+We have decided to completely ban profanity, using profanity around the site at all will cause your project to be deleted, but if it gets too bad you will be banned from Blockopolis.
 
 
 ## Limits on Blood and Violence
@@ -169,12 +136,12 @@ You **can** however, link to Patreon or Shopify.
 Let us know of any other sites we can allow if you need them.
 
 ## Copyright
-Snail IDE will remove your project if we are told that it violates copyright rules for any specific company.
+Blockopolis will remove your project if we are told that it violates copyright rules for any specific company.
 Any company or business also reserves the right to take down your project if they believe it violates their copyright.
 We will also remove your project if it contains pirated content or material.
 
 Reasons your project might be removed are:
-- Using another Snail IDE user's content without their permission
+- Using another Blockopolis user's content without their permission
 - Including logos or designs without their owner's explicit permission
 - Using other people's artwork or music without their explicit permission
 
@@ -203,8 +170,13 @@ Stating loud sounds are in the project using the title, instructions or notes is
 Do not use bots to spam votes, loves, or views on a project, we log IP addresses for safety, if we see you are spamming projects via bots, you have a high risk of being banned, the project you are botting won't be banned but the person who botted will be.
 
 ## Project License
-When you upload a project to Snail IDE, your project is under the GNU General Public License v3.0, if you choose to package your project and release it somewhere else, it is whatever license you want. (Some places may have different rules, please respect them)
+When you upload a project to Blockopolis, your project is under the GNU General Public License v3.0, if you choose to package your project and release it somewhere else, it is whatever license you want. (Some places may have different rules, please respect them)
+
 ## NCS
 When using NCS songs you MUST credit the artist, go to [ncs.io](https://ncs.io) and search the song. If you do not credit the artist you are at risk of getting your project taken down.
+
 ## Non-Scratch Accounts
-In the future we plan to support signing in via Discord or other services, for these accounts you will be forced to use Gravatar or some similar service and your username will be going through a filter.
+In the future we plan to support signing in via Discord or other services, for these accounts your username will be going through a filter.
+
+## Furries
+Blockopolis does not allow furries.
